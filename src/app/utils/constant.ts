@@ -1,0 +1,9 @@
+export const ACCOUNT_INFO = 'ACCOUNT_INFO';
+export const APP_ID = 'EBANKKHDN';
+export const HEADER_REQ_TYPE = 'REQUEST';
+export const HEADER_API_MSUAA = 'MsUaa';
+export const HEADER_PRIORITY_3 = '3';
+export const HEADER_CHANNEL = 'SEANET';
+export const HEADER_SUB_CHANNEL = 'SEANET';
+export const HEADER_CONTEXT = 'PC';
+export const BODY_STATUS_OK = 'OK';
